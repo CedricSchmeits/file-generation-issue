@@ -2,7 +2,8 @@
 // Name        : test.cpp
 // Author      : Cedric Schmeits
 // Version     :
-// Copyright   : Copyright @2021
+// Copyright   : Copyright (c) 2023
+// License     : MIT
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
