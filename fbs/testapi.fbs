@@ -1,0 +1,9 @@
+
+enum Countries: uint32
+{
+  Netherlands,
+  Germany,
+  England,
+  Finland
+  
+}
